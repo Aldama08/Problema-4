@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1678170856 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\act 4\gatodomestico.cpp
+	<iostream>
+	"GatoDomestico.h"
+
+1678170746 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\act 4\gatodomestico.h
+	<iostream>
+
+1678170864 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\act 4\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1678170392 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\act 4\lista.h
+	"GatoDomestico.h"
+
+1678170930 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\act 4\main.cpp
+	<iostream>
+	"Lista.h"
+	"GatoDomestico.h"
+
+1678170856 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\problema 4\gatodomestico.cpp
+	<iostream>
+	"GatoDomestico.h"
+
+1678170746 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\problema 4\gatodomestico.h
+	<iostream>
+
+1678170864 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\problema 4\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1678170392 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\problema 4\lista.h
+	"GatoDomestico.h"
+
+1678170962 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\problema 4\main.cpp
+	<iostream>
+	"Lista.h"
+	"GatoDomestico.h"
+
